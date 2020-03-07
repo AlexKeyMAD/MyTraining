@@ -14,10 +14,10 @@ body {
 }
 
 #header_contacts {
-    line-height: 0.7em;
-    margin: 10px 50px 0 50px;
-    font-size: 1.1em;
-    width: 20%;
+    line-height: 70%;
+    margin: 1% 0 0 5%;
+    font-size: 90%;
+    width: 15%;
 }
 
 #phone {
@@ -43,7 +43,7 @@ body {
 .btn_myblog {
     background-color: #fae017;
     width: 98%;
-    height: 40%;
+    height: 40px;
     border-radius: 10px;
     font-size: 80%;
     font-weight: 600;
