@@ -5,6 +5,7 @@ body {
 
 form {
     background-color: white;
+    height: 80%;
 }
 
 #header_logo {
@@ -161,6 +162,7 @@ form {
 
 .querty {
     padding-top: 10px;
+    height: 97%;
 }
 
 .block_querty {
