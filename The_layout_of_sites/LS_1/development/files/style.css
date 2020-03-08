@@ -57,7 +57,7 @@ body {
 
 #direct img {
     padding: 0 5% 0 5%;
-    width: 35%;
+    width: 39%;
     height: 95%;
 }
 
@@ -66,7 +66,8 @@ body {
     margin-left: 1%;
 }
 
-.header {
+.header,
+.content {
     height: 100px;
     width: 1000px;
     padding: 0 10px 0 10px;
@@ -84,4 +85,47 @@ body {
 #block1 img {
     width: 440px;
     height: 512px;
+}
+
+#block1_text {
+    float: left;
+    width: 60%;
+    margin-top: 40px;
+}
+
+#block1_autor {
+    float: right;
+    width: 35%;
+}
+
+.style_text1 {
+    font: bold 270% arial;
+}
+
+.yelow_background {
+    background-color: #fae017;
+    font-size: 1.2em;
+}
+
+#block1_text span {
+    line-height: 1.1em;
+}
+
+#block1_quote img {
+    width: 40px;
+    height: 40px;
+}
+
+#block1_quote p {
+    margin: 0 auto;
+}
+
+#quote_autor {
+    padding-left: 70px;
+    padding-top: 5px;
+}
+
+#img_closing_quote {
+    padding-left: 220px;
+    margin-top: -25px;
 }
