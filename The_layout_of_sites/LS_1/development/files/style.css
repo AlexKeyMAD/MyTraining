@@ -33,7 +33,7 @@ body {
 #soc_net {
     margin-top: 20px;
     float: left;
-    width: 8%;
+    width: 12%;
 }
 
 #myblog {
@@ -67,11 +67,21 @@ body {
 }
 
 .header {
-    height: 5%;
-    width: 90%;
-    padding: 0 5% 0 5%;
+    height: 100px;
+    width: 1000px;
+    padding: 0 10px 0 10px;
+    margin: 0 auto;
 }
 
 .header div {
     height: 98%;
+}
+
+.content {
+    margin: 0 auto;
+}
+
+#block1 img {
+    width: 440px;
+    height: 512px;
 }
