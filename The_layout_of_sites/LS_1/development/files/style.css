@@ -5,7 +5,11 @@ body {
 
 form {
     background-color: white;
-    height: 80%;
+    height: 70%;
+    width: 85%;
+    border-radius: 8px;
+    margin-left: 5%;
+    align-items: center;
 }
 
 #header_logo {
@@ -165,9 +169,22 @@ form {
     height: 97%;
 }
 
-.block_querty {
+.block-querty {
     background-color: #fae017;
     width: 40%;
     height: 90%;
     float: right;
+    border-radius: 10px;
+}
+
+.block-querty input {
+    width: 300px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.block-querty span {
+    margin-left: 10px;
+    font: bold 90% arial;
+    margin-top: 35px;
 }
