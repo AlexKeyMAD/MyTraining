@@ -5,10 +5,10 @@ body {
 
 form {
     background-color: white;
-    height: 70%;
+    height: 65%;
     width: 85%;
     border-radius: 8px;
-    margin-left: 5%;
+    margin-left: 7.5%;
     align-items: center;
 }
 
@@ -171,20 +171,42 @@ form {
 
 .block-querty {
     background-color: #fae017;
-    width: 40%;
+    width: 42%;
     height: 90%;
     float: right;
     border-radius: 10px;
 }
 
-.block-querty input {
-    width: 300px;
-    height: 20px;
-    margin-left: 10px;
+.block-querty input[type='text'],
+.block-querty input[type='tel'] {
+    width: 95%;
+    height: 40px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    border: none;
+    font-size: 1.3em;
+}
+
+.block-querty input[type='submit'] {
+    width: 95%;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #1A73E8;
+    color: white;
+    font-size: 1.0em;
 }
 
 .block-querty span {
     margin-left: 10px;
     font: bold 90% arial;
-    margin-top: 35px;
+}
+
+.block-querty-div {
+    padding-top: 40px;
+    padding-left: 15px;
+}
+
+.block-querty-text {
+    margin-left: 10px;
+    text-align: center;
 }
