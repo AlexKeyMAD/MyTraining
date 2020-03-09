@@ -210,3 +210,17 @@ form {
     margin-left: 10px;
     text-align: center;
 }
+
+.div-grey {
+    background-color: #f1f1f1;
+    width: 60%;
+    height: 100%;
+}
+
+.left-float {
+    float: left;
+}
+
+.right-float {
+    float: right;
+}
