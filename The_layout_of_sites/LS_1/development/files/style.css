@@ -197,12 +197,12 @@ form {
 }
 
 .block-querty span {
-    margin-left: 10px;
-    font: bold 90% arial;
+    margin-left: 5px;
+    font: normal 1.1em arial;
 }
 
 .block-querty-div {
-    padding-top: 40px;
+    padding-top: 35px;
     padding-left: 15px;
 }
 
