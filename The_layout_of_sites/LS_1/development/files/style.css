@@ -217,10 +217,10 @@ form {
     height: 100%;
 }
 
-.left-float {
-    float: left;
+.content2_div1 {
+    margin-left: 400px;
 }
 
-.right-float {
-    float: right;
+.content2_div1 img {
+    margin-left: -400px;
 }
