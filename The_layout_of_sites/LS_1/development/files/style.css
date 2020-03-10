@@ -156,7 +156,7 @@ form {
 .querty_content {
     background-color: #f1f1f1;
     width: 100%;
-    height: 550px;
+    height: 570px;
 }
 
 .block_video {
@@ -213,14 +213,25 @@ form {
 
 .div-grey {
     background-color: #f1f1f1;
-    width: 60%;
+    width: 50%;
     height: 100%;
+    margin-left: 500px;
 }
 
-.content2_div1 {
-    margin-left: 400px;
+.div-img {
+    float: left;
+    margin-top: 15px;
 }
 
-.content2_div1 img {
-    margin-left: -400px;
+#content2-div1 {
+    width: 1000px;
+    height: 245px;
+}
+
+.content2 img {
+    height: 50%;
+}
+
+.content2 h1 {
+    padding-left: 15px;
 }
