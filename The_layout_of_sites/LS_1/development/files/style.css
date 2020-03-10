@@ -213,23 +213,53 @@ form {
 
 .div-grey {
     background-color: #f1f1f1;
-    width: 50%;
+    width: 55%;
     height: 100%;
-    margin-left: 500px;
-    border: solid 2px grey;
+    padding-right: 10px;
 }
 
-.div-img {
-    float: left;
-    margin-top: 15px;
+.div-right {
+    float: right;
+    position: relative;
+}
+
+#left-img1 {
+    position: relative;
+    top: -240px;
+    left: -50px;
 }
 
 #content2-div1 {
-    width: 1000px;
-    height: 245px;
+    height: 270px;
+    padding: 5px 0 5px 0;
 }
 
-.content2 img {
-    height: 50%;
-    border: solid 2px grey;
+.content2 h2 {
+    color: #1A73E8;
+    margin: 25px 0 0 20%;
+    text-align: center;
+}
+
+.content2 h1 {
+    text-align: center;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.content2 li {
+    margin-left: 20%;
+    font-size: 1.2em;
+}
+
+#content2-div3 {
+    height: 370px;
+    padding: 5px 0 5px 0;
+}
+
+#left-img3 {
+    position: relative;
+    top: -330px;
+    left: -50px;
 }
