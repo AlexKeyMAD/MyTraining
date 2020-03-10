@@ -216,6 +216,7 @@ form {
     width: 50%;
     height: 100%;
     margin-left: 500px;
+    border: solid 2px grey;
 }
 
 .div-img {
@@ -230,8 +231,5 @@ form {
 
 .content2 img {
     height: 50%;
-}
-
-.content2 h1 {
-    padding-left: 15px;
+    border: solid 2px grey;
 }
