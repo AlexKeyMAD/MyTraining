@@ -223,6 +223,11 @@ form {
     position: relative;
 }
 
+.div-left {
+    float: left;
+    position: relative;
+}
+
 #left-img1 {
     position: relative;
     top: -240px;
@@ -236,8 +241,15 @@ form {
 
 .content2 h2 {
     color: #1A73E8;
-    margin: 25px 0 0 20%;
     text-align: center;
+}
+
+.content2-h2-r {
+    margin: 25px 0 0 20%;
+}
+
+.content2-h2-l {
+    margin: 25px 20% 0 0;
 }
 
 .content2 h1 {
@@ -248,9 +260,25 @@ form {
     font-weight: 700;
 }
 
-.content2 li {
+.div-right li {
     margin-left: 20%;
     font-size: 1.2em;
+}
+
+.div-left li {
+    margin-right: 20%;
+    font-size: 1.2em;
+}
+
+#right-img2 {
+    position: relative;
+    top: -360px;
+    left: 450px;
+}
+
+#content2-div2 {
+    height: 390px;
+    padding: 5px 0 5px 0;
 }
 
 #content2-div3 {
@@ -262,4 +290,15 @@ form {
     position: relative;
     top: -330px;
     left: -50px;
+}
+
+#right-img4 {
+    position: relative;
+    top: -350px;
+    left: 430px;
+}
+
+#content2-div4 {
+    height: 380px;
+    padding: 5px 0 5px 0;
 }
