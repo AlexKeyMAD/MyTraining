@@ -331,3 +331,23 @@ form {
     position: relative;
     top: -75px;
 }
+
+.article {
+    padding-top: 120px;
+}
+
+.article_heder_left {
+    float: left;
+    width: 35%;
+    margin: 0 auto;
+    padding-right: 10px;
+}
+
+.article_heder_right {
+    line-height: 0.3em;
+    float: right;
+}
+
+.p-center {
+    text-align: center;
+}
