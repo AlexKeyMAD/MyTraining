@@ -363,3 +363,42 @@ form {
     text-align: center;
     padding-top: 10px;
 }
+
+.price1 {
+    width: 48%;
+    height: 250px;
+    margin: 10px;
+    float: left;
+    background-color: white;
+    text-align: center;
+}
+
+.price1 img {
+    float: left;
+    padding-left: 15px;
+    width: 100px;
+    height: 100px;
+}
+
+.price1 hr {
+    width: 90%;
+}
+
+.price1 span h2 {
+    text-align: left;
+    padding-left: 5%;
+    color: #1A73E8;
+}
+
+.price1 ul {
+    text-align: left;
+}
+
+.price-sale {
+    width: 48%;
+    height: 250px;
+    margin: 10px;
+    float: left;
+    background-color: white;
+    text-align: center;
+}
