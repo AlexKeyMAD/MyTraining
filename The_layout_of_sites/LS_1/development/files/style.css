@@ -355,7 +355,7 @@ form {
 .price {
     background-color: #f1f1f1;
     width: 100%;
-    height: 900px;
+    height: 1300px;
     margin: 50px 20px 20px 20px;
 }
 
@@ -432,4 +432,16 @@ form {
 
 .div-ul {
     height: 55%;
+}
+
+.yelow-div {
+    height: 200px;
+    border: solid #fae017;
+    border-radius: 5px;
+    background-color: #fae017;
+    margin-top: 100px;
+}
+
+.yelow-div-left {
+    width: 50%;
 }
