@@ -355,7 +355,7 @@ form {
 .price {
     background-color: #f1f1f1;
     width: 100%;
-    height: 1300px;
+    height: 1200px;
     margin: 50px 20px 20px 20px;
 }
 
@@ -444,4 +444,30 @@ form {
 
 .yelow-div-left {
     width: 50%;
+}
+
+.block-querty-site input[type='text'],
+.block-querty-site input[type='tel'],
+.block-querty-site input[type='url'] {
+    width: 95%;
+    height: 40px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    border: none;
+    font-size: 1.3em;
+}
+
+.block-querty-site input[type='submit'] {
+    width: 95%;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #1A73E8;
+    color: white;
+    font-size: 1.0em;
+}
+
+.block-querty-site form {
+    height: 320px;
+    position: relative;
+    top: -55px;
 }
