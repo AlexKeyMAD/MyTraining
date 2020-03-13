@@ -471,3 +471,22 @@ form {
     position: relative;
     top: -55px;
 }
+
+#text-yelow-div {
+    padding: 25px;
+}
+
+#block_autor-img {
+    width: 35%;
+}
+
+#block_autor_text {
+    width: 60%;
+    padding-top: 75px;
+    padding-left: 45px;
+}
+
+#block_autor-img img {
+    width: 440px;
+    height: 512px;
+}
