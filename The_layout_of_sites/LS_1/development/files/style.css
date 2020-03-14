@@ -490,3 +490,10 @@ form {
     width: 440px;
     height: 512px;
 }
+
+.footer {
+    margin-top: 100px;
+    height: 100px;
+    width: 100%;
+    background-image: url('img/footer.jpg');
+}
