@@ -545,3 +545,14 @@ form {
     font-size: 1.1em;
     font-weight: 500;
 }
+
+#ps {
+    height: 300px;
+    text-align: center;
+}
+
+.block {
+    line-height: 0.4em;
+    font-size: 1.1em;
+    margin-top: 50px;
+}
