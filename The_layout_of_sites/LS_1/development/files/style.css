@@ -496,3 +496,36 @@ form {
     width: 100%;
     background-image: url('../img/footer.jpg');
 }
+
+#footer_logo {
+    height: 60px;
+    margin: 20px 10px 0 10px;
+    width: 20%;
+}
+
+#footer_logo img {
+    width: 98%;
+}
+
+#footer_contacts {
+    line-height: 70%;
+    margin: 1% 0 0 5%;
+    font-size: 80%;
+    width: 15%;
+}
+
+#footer_phone {
+    font-size: 100%;
+    font-weight: bold;
+}
+
+#footer_soc_net img {
+    height: 20px;
+    width: 20px;
+}
+
+#footer_soc_net {
+    margin-top: 20px;
+    float: left;
+    width: 12%;
+}
