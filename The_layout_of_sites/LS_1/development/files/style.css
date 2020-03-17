@@ -585,4 +585,29 @@ form {
     margin-left: 90px;
 }
 
-@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+    .all_content {
+        width: 95%;
+        padding: 0 1px 0 1px;
+        margin: 0 auto;
+    }
+    #header_logo {
+        height: 90px;
+        margin: 5px 1px 0 1px;
+        width: 40%;
+    }
+    #header_contacts {
+        display: none;
+    }
+    #direct {
+        display: none;
+    }
+    #soc_net img {
+        height: 25px;
+        width: 25px;
+    }
+    #soc_net {
+        margin-top: 5px;
+        width: 12%;
+    }
+}
