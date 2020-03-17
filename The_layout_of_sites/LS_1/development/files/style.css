@@ -575,4 +575,12 @@ form {
 .photo-grey img {
     float: left;
     text-align: center;
+    width: 195px;
+    height: 300px;
+    padding: 0 5px;
+}
+
+#div-photo {
+    height: 90%;
+    margin-left: 80px;
 }
