@@ -12,8 +12,12 @@ form {
     align-items: center;
 }
 
-.hr-mobile {
+.display-mobile {
     display: none;
+}
+
+.display-desktop {
+    display: block;
 }
 
 #header_logo {
@@ -101,7 +105,7 @@ form {
     margin: 0 auto;
 }
 
-#block1 img {
+#autor_img {
     width: 440px;
     height: 512px;
 }
@@ -599,14 +603,20 @@ form {
         padding: 0 1px 0 1px;
         margin: 0 auto;
     }
-    .hr-mobile {
+    .display-mobile {
         display: block;
+    }
+    .display-desktop {
+        display: none;
     }
     .clear-float-mobile {
         clear: both;
     }
     .header {
         height: 130px;
+    }
+    .header div {
+        height: 40px;
     }
     #header_logo {
         height: 45px;
@@ -641,8 +651,12 @@ form {
     .btn_myblog {
         margin-top: 1%;
     }
-    #block1 img {
-        width: 257px;
-        height: 300px;
+    .quote {
+        width: 25px;
+        height: 30px;
+    }
+    #autor_img {
+        width: 220px;
+        height: 256px;
     }
 }
