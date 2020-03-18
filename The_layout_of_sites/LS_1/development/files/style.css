@@ -666,4 +666,20 @@ form {
         width: 50%;
         margin-top: 5px;
     }
+    .block_video {
+        float: none;
+        width: 98%;
+    }
+    .block_video iframe {
+        width: 350px;
+        height: 196px;
+    }
+    .block-querty {
+        float: none;
+        width: 98%;
+        height: 430px;
+    }
+    .querty_content {
+        height: 1000px;
+    }
 }
