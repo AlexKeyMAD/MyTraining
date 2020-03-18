@@ -47,6 +47,10 @@ form {
     width: 30px;
 }
 
+.hr-mobile {
+    display: none;
+}
+
 #soc_net {
     margin-top: 20px;
     float: left;
@@ -630,14 +634,14 @@ form {
         display: none;
     }
     #soc_net img {
-        height: 45px;
-        width: 45px;
+        height: 40px;
+        width: 40px;
     }
     #soc_net {
         margin-top: 10px;
         width: 45%;
         height: 45px;
-        margin-left: 15px;
+        margin-left: 5px;
     }
     #myblog {
         width: 45%;
@@ -646,7 +650,10 @@ form {
         display: block;
         font-size: 1.2em;
         margin-top: 3%;
-        margin-left: 10%;
+        margin-left: 5%;
+    }
+    .hr-mobile {
+        display: block;
     }
     .btn_myblog {
         margin-top: 1%;
