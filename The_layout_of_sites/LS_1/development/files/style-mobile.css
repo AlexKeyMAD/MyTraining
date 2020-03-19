@@ -86,4 +86,7 @@
     .querty_content {
         height: 1020px;
     }
+    .content2 h1 {
+        font-size: 1.2em;
+    }
 }
