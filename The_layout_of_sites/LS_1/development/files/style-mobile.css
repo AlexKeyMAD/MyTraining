@@ -89,4 +89,12 @@
     .content2 h1 {
         font-size: 1.2em;
     }
+    .div-right {
+        float: none;
+        position: relative;
+    }
+    .div-grey {
+        width: 100%;
+        height: 100%;
+    }
 }
