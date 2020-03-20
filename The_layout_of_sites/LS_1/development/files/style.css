@@ -74,6 +74,8 @@ form {
 #direct {
     width: 20%;
     float: right;
+    position: relative;
+    top: -20px;
 }
 
 #direct img {
