@@ -110,13 +110,12 @@
     }
     #left-img1 {
         position: relative;
-        top: 0px;
+        top: -90px;
         left: 0px;
         width: 300px;
         height: 10px;
     }
-    #left-img1 img,
-    #right-img2 img {
+    #left-img1 img {
         width: 298px;
         height: 98px;
         margin-left: 3px;
@@ -130,16 +129,21 @@
     }
     #content2-div2 {
         padding: 15px 0 5px 0;
-        height: 460px;
+        height: 500px;
     }
     #right-img2 {
         position: relative;
-        top: -110px;
+        top: -160px;
         left: 0px;
         width: 300px;
         height: 220px;
     }
     .div-left {
         float: none;
+    }
+    #right-img2 img {
+        width: 300px;
+        height: 150px;
+        margin-left: 3px;
     }
 }
