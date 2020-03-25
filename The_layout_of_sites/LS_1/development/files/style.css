@@ -607,3 +607,7 @@ form {
     height: 90%;
     margin-left: 90px;
 }
+
+#footer_contact_mobile {
+    display: none;
+}

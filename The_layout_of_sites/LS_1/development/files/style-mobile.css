@@ -24,17 +24,20 @@
         margin: 5px 1px 0 1px;
         width: 50%;
     }
-    #header_contacts {
+    #header_contacts,
+    #footer_contacts {
         display: none;
     }
     #direct {
         display: none;
     }
-    #soc_net img {
+    #soc_net img,
+    #footer_soc_net img {
         height: 40px;
         width: 40px;
     }
-    #soc_net {
+    #soc_net,
+    #footer_soc_net {
         margin-top: 10px;
         width: 45%;
         height: 45px;
@@ -284,5 +287,41 @@
     }
     #ps {
         height: 400px;
+    }
+    .footer {
+        height: 300px;
+        width: 100%;
+    }
+    #footer_logo {
+        height: 45px;
+        margin: 5px 1px 0 1px;
+        width: 50%;
+        float: left;
+    }
+    #footer_contact_mobile_left {
+        float: left;
+    }
+    #footer_contact_mobile {
+        display: block;
+    }
+    #footer_contact_mobile_right {
+        float: left;
+    }
+    #footer_contact_mobile div {
+        width: 45%;
+        margin-left: 10px;
+    }
+    .text-copiright {
+        display: flex;
+        flex-wrap: wrap-reverse;
+    }
+    .div-btn-copiright {
+        width: 80%;
+        margin: 0 auto;
+        top: 10px;
+    }
+    .text-copiright {
+        line-height: 0.8em;
+        text-align: center;
     }
 }
