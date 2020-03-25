@@ -363,8 +363,8 @@ form {
 }
 
 .article_heder_right {
-    line-height: 0.3em;
     float: right;
+    width: 53%;
 }
 
 .p-center {
