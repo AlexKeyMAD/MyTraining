@@ -205,4 +205,15 @@
     .block-querty input[type='submit'] {
         height: 50px;
     }
+    .article_heder_left {
+        float: none;
+        width: 98%;
+    }
+    .article_heder_left h1 {
+        font-size: 1.5em;
+    }
+    .article_heder_right {
+        line-height: 0.9em;
+        float: right;
+    }
 }
