@@ -254,4 +254,35 @@
     .yelow-div-left {
         width: 98%;
     }
+    #block_autor-img {
+        width: 98%;
+    }
+    #block_autor_text {
+        width: 98%;
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+    .photo-grey {
+        background-color: #f1f1f1;
+        width: 100%;
+        height: 460px;
+        margin: 0 auto;
+    }
+    .photo-cont {
+        height: 99%;
+    }
+    .photo-disp-mobile {
+        display: none;
+    }
+    #div-photo {
+        margin-left: 5px;
+    }
+    .block {
+        line-height: 0.8em;
+        font-size: 1.0em;
+        margin-top: 5px;
+    }
+    #ps {
+        height: 400px;
+    }
 }
