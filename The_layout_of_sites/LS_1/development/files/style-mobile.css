@@ -219,7 +219,7 @@
     }
     .price {
         margin: 0 auto;
-        height: 3000px;
+        height: 2280px;
     }
     .price h1 {
         font-size: 1.6em;
@@ -251,5 +251,15 @@
         /*text-align: center;
         position: relative;*/
         bottom: -40px;
+    }
+    .yelow-div {
+        height: 540px;
+        /*border: solid #fae017;
+        border-radius: 5px;
+        background-color: #fae017;
+        margin-top: 100px;*/
+    }
+    .yelow-div-left {
+        width: 98%;
     }
 }
