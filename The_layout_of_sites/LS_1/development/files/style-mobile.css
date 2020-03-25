@@ -228,8 +228,6 @@
         float: none;
         width: 98%;
         margin-left: 5px;
-        /* height: 200px;
-        margin: 1px;*/
     }
     .price-sale {
         width: 98%;
@@ -248,16 +246,10 @@
         height: 260px;
     }
     .btn {
-        /*text-align: center;
-        position: relative;*/
         bottom: -40px;
     }
     .yelow-div {
         height: 540px;
-        /*border: solid #fae017;
-        border-radius: 5px;
-        background-color: #fae017;
-        margin-top: 100px;*/
     }
     .yelow-div-left {
         width: 98%;
