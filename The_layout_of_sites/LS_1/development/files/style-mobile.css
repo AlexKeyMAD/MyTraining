@@ -219,6 +219,7 @@
     }
     .price {
         margin: 0 auto;
+        height: 3000px;
     }
     .price h1 {
         font-size: 1.6em;
@@ -227,5 +228,28 @@
         float: none;
         width: 98%;
         margin-left: 5px;
+        /* height: 200px;
+        margin: 1px;*/
+    }
+    .price-sale {
+        width: 98%;
+        height: 520px;
+        margin: 0 auto;
+        float: none;
+    }
+    .price-sale h2 {
+        text-align: left;
+        font-size: 1.1em;
+        margin-left: 10px;
+        margin-bottom: 5px;
+    }
+    #block_autor-img img {
+        width: 200px;
+        height: 260px;
+    }
+    .btn {
+        /*text-align: center;
+        position: relative;*/
+        bottom: -40px;
     }
 }

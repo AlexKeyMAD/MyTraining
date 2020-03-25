@@ -404,6 +404,10 @@ form {
     width: 90%;
 }
 
+.div-ul h3 {
+    color: #1A73E8;
+}
+
 .price1 span h2 {
     text-align: left;
     padding-left: 5%;
