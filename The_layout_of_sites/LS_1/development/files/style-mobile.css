@@ -147,13 +147,13 @@
         margin-left: 3px;
     }
     #content2-div3 {
-        width: 100%;
+        width: 98%;
         height: 1200px;
         background-color: #f1f1f1;
         display: flex;
         flex-wrap: wrap-reverse;
         position: relative;
-        /*padding: 103px 0px;*/
+        padding: 170px 0px;
     }
     #left-img3 {
         position: relative;
@@ -162,7 +162,7 @@
     }
     #left-img3 img {
         width: 298px;
-        height: 98px;
+        height: 160px;
         margin-left: 3px;
     }
 }
