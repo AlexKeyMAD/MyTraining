@@ -214,6 +214,18 @@
     }
     .article_heder_right {
         line-height: 0.9em;
-        float: right;
+        float: none;
+        width: 98%;
+    }
+    .price {
+        margin: 0 auto;
+    }
+    .price h1 {
+        font-size: 1.6em;
+    }
+    .price1 {
+        float: none;
+        width: 98%;
+        margin-left: 5px;
     }
 }
